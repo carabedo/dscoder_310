@@ -1,6 +1,6 @@
 # **comision 310**
 
-## **C1 19/08/2023**
+## **C1 21/08/2023**
 * Presentacion Equipo
 	* Normas de convivencia
 	* Compromisos
